@@ -4,6 +4,7 @@ room in the opcode field.
 
 (C) Arlet Ottens
 
+<pre>
   8   7   6   5   4   3   2   1   0
 +---+---+---+---+---+---+---+---+---+	
 | 0 |            literal            |   push literal value on A stack
@@ -48,3 +49,4 @@ stack |
 1     | X
 2     | Y
 3     | R
+</pre>
